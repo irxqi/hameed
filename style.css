@@ -1,0 +1,421 @@
+.hameed {
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.hameed .div {
+  background-color: #eaeaea;
+  width: 1440px;
+  height: 5300px;
+  position: relative;
+}
+
+.hameed .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 610px;
+  top: 0;
+  left: 0;
+}
+
+.hameed .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 517px;
+  top: 0;
+  left: 0;
+}
+
+.hameed .text-wrapper {
+  position: absolute;
+  width: 682px;
+  top: 136px;
+  left: 635px;
+  font-family: "Maven Pro", Helvetica;
+  font-weight: 700;
+  color: var(--idk);
+  font-size: 180px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 200px;
+  direction: rtl;
+}
+
+.hameed .dish-svgrepo-com {
+  top: 185px;
+  left: 134px;
+  position: absolute;
+  width: 425px;
+  height: 425px;
+}
+
+.hameed .img {
+  top: 177px;
+  left: 144px;
+  position: absolute;
+  width: 425px;
+  height: 425px;
+}
+
+.hameed .text-wrapper-2 {
+  position: absolute;
+  width: 1120px;
+  top: 702px;
+  left: 160px;
+  font-family: "Maven Pro", Helvetica;
+  font-weight: 700;
+  color: var(--idk);
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.hameed .text-wrapper-3 {
+  width: 1120px;
+  top: 2566px;
+  left: 160px;
+  font-family: "Maven Pro", Helvetica;
+  color: var(--idk);
+  font-size: 64px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .p {
+  width: 455px;
+  top: 1378px;
+  left: 160px;
+  font-family: "Maven Pro", Helvetica;
+  color: var(--idk);
+  font-size: 40px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .overlap {
+  position: absolute;
+  width: 455px;
+  height: 614px;
+  top: 2772px;
+  left: 160px;
+}
+
+.hameed .text-wrapper-4 {
+  width: 455px;
+  top: 502px;
+  left: 0;
+  font-family: "Maven Pro", Helvetica;
+  color: var(--idk);
+  font-size: 40px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .image {
+  width: 455px;
+  height: 503px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.hameed .text-wrapper-5 {
+  width: 455px;
+  top: 4105px;
+  left: 825px;
+  font-family: "Maven Pro", Helvetica;
+  color: var(--idk);
+  font-size: 40px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 370px;
+  top: 4930px;
+  left: 0;
+}
+
+.hameed .element {
+  width: 1120px;
+  top: 0;
+  left: 160px;
+  font-family: "Maven Pro", Helvetica;
+  color: transparent;
+  font-size: 40px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .span {
+  color: #252a34;
+}
+
+.hameed .text-wrapper-6 {
+  color: #ff2e63;
+}
+
+.hameed .group {
+  position: absolute;
+  width: 1440px;
+  height: 279px;
+  top: 91px;
+  left: 0;
+}
+
+.hameed .text-wrapper-7 {
+  width: 455px;
+  top: 4105px;
+  left: 160px;
+  font-family: "Maven Pro", Helvetica;
+  color: var(--idk);
+  font-size: 40px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .image-2 {
+  width: 455px;
+  height: 512px;
+  top: 3501px;
+  left: 160px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.hameed .overlap-3 {
+  position: absolute;
+  width: 475px;
+  height: 565px;
+  top: 2772px;
+  left: 805px;
+}
+
+.hameed .text-wrapper-8 {
+  position: absolute;
+  width: 455px;
+  top: 502px;
+  left: 20px;
+  font-family: "Maven Pro", Helvetica;
+  font-weight: 700;
+  color: var(--idk);
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.hameed .image-3 {
+  width: 475px;
+  height: 503px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.hameed .text-wrapper-9 {
+  width: 764px;
+  top: 2158px;
+  left: 346px;
+  font-family: "Maven Pro", Helvetica;
+  color: var(--idk);
+  font-size: 40px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .text-wrapper-10 {
+  width: 455px;
+  top: 1378px;
+  left: 825px;
+  font-family: "Maven Pro", Helvetica;
+  color: var(--idk);
+  font-size: 40px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .div-wrapper {
+  position: absolute;
+  width: 552px;
+  height: 90px;
+  top: 4430px;
+  left: 445px;
+}
+
+.hameed .div-2 {
+  width: 550px;
+  top: 0;
+  left: 0;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  color: transparent;
+  font-size: 110px;
+  line-height: 90px;
+  position: absolute;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.hameed .group-2 {
+  position: absolute;
+  width: 552px;
+  height: 90px;
+  top: 4663px;
+  left: 445px;
+}
+
+.hameed .image-4 {
+  width: 452px;
+  height: 470px;
+  top: 874px;
+  left: 163px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.hameed .image-5 {
+  width: 455px;
+  height: 470px;
+  top: 874px;
+  left: 825px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.hameed .image-6 {
+  width: 740px;
+  height: 416px;
+  top: 1650px;
+  left: 350px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.hameed .image-7 {
+  width: 455px;
+  height: 512px;
+  top: 3501px;
+  left: 825px;
+  position: absolute;
+  object-fit: cover;
+}
+.hameed .text-wrapper,
+.hameed .text-wrapper-2,
+.hameed .text-wrapper-3,
+.hameed .text-wrapper-4,
+.hameed .text-wrapper-5,
+.hameed .text-wrapper-6,
+.hameed .text-wrapper-7,
+.hameed .text-wrapper-8,
+.hameed .text-wrapper-9,
+.hameed .text-wrapper-10,
+.hameed .div-2 {
+  font-family: 'Noto Kufi Arabic', sans-serif; /* Change the font-family */
+}
+.hameed .div-2 {
+  font-size: 90px; /* or adjust to an appropriate size */
+}
+.hameed {
+  transform: scale(1.5);
+  transform-origin: top center;
+}
+.whatsapp-svgrepo-com {
+  width: 194px;
+  height: 194px;
+}
+
+.whatsapp-svgrepo.com .overlap-group {
+  position: relative;
+  width: 178px;
+  height: 184px;
+  top: 0px;
+  left: 0px;
+}
+
+.whatsapp-svgrepo-com .vector {
+  position: absolute;
+  width: 178px;
+  height: 184px;
+  top: 0;
+  left: 0;
+}
+.hameed .bottom-right-image {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+}
+.hameed .bottom-right-image {
+  left: 100px;
+  transition: transform 0.3s ease-in-out;
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+  position:relative
+}
+.bottom-right-image:hover {
+  transform: scale(1.2); /* Adjust the scale factor as needed */
+}
+
+/* Style for the custom scrollbar */
+body::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #FF2E63; /* Color of the scrollbar thumb */
+  border-radius: 6px; /* Rounded corners */
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #f1f1f1; /* Color of the scrollbar track */
+}
+
+/* Additional styles to prevent the horizontal scrollbar */
+body {
+  overflow-x: hidden;
+}
